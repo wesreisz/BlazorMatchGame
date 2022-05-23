@@ -29,6 +29,7 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-
+BlazorMatchGame/bin
+BlazorMatchGame/obj
 # Visual Studio 2015
 .vs/
