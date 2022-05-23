@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{952433FA-5064-4612-AA53-150742CFEE20}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="BlazorMatchGame/Pages/Index.razor">
     <Files>
-      <File FileName="BlazorMatchGame/Pages/Index.razor" Line="39" Column="1" />
+      <File FileName="BlazorMatchGame/Pages/Index.razor" Line="11" Column="2" />
       <File FileName="BlazorMatchGame/Pages/FetchData.razor" Line="1" Column="1" />
       <File FileName="BlazorMatchGame/Pages/Counter.razor" Line="1" Column="1" />
       <File FileName="BlazorMatchGame/Program.cs" Line="1" Column="1" />
